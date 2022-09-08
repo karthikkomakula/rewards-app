@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "customerId": 10001,
+    "customerName": "customer1",
+    "amount": 77,
+    "createdOn": 1657076491000
+  },
+  {
+    "id": 2,
+    "customerId": 10002,
+    "customerName": "customer2",
+    "amount": 70,
+    "createdOn": 1658372491000
+  },
+  {
+    "id": 3,
+    "customerId": 10001,
+    "customerName": "customer1",
+    "amount": 47,
+    "createdOn": 1659754891000
+  },
+  {
+    "id": 4,
+    "customerId": 10004,
+    "customerName": "customer4",
+    "amount": 67,
+    "createdOn": 1662260491000
+  },
+  {
+    "id": 5,
+    "customerId": 10002,
+    "customerName": "customer2",
+    "amount": 107,
+    "createdOn": 1662260491000
+  },
+  {
+    "id": 6,
+    "customerId": 10006,
+    "customerName": "customer6",
+    "amount": 167,
+    "createdOn": 1662260491000
+  }
+]
